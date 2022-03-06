@@ -1,18 +1,18 @@
 # Custom styles for [wofi](https://hg.sr.ht/~scoopta/wofi)
 
-> Dune [wofi](https://hg.sr.ht/~scoopta/wofi).
+> Dune
 
 ![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/dune/dune.png)
 
-> Grixis [wofi](https://hg.sr.ht/~scoopta/wofi).
+> Grixis
 
 ![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/grixis/grixis.png)
 
-> Naya [wofi](https://hg.sr.ht/~scoopta/wofi).
+> Naya
 
 ![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/naya/naya.png)
 
-> Sultai [wofi](https://hg.sr.ht/~scoopta/wofi).
+> Sultai
 
 ![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/sultai/sultai.png)
 
