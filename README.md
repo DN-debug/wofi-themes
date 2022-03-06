@@ -2,19 +2,19 @@
 
 > Dune [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](./screenshot.png)
+![Screenshot](dune/screenshot.png)
 
 > Grixis [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](./screenshot.png)
+![Screenshot](grixis/screenshot.png)
 
 > Naya [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](./screenshot.png)
+![Screenshot](naya/screenshot.png)
 
 > Sultai [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](./screenshot.png)
+![Screenshot](sultai/screenshot.png)
 
 ## Install
 
