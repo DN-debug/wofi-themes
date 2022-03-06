@@ -2,19 +2,19 @@
 
 > Dune [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/dune/style.css)
+![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/dune/dune.png)
 
 > Grixis [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/grixis/style.css)
+![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/grixis/grixis.png)
 
 > Naya [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/naya/style.css)
+![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/naya/naya.png)
 
 > Sultai [wofi](https://hg.sr.ht/~scoopta/wofi).
 
-![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/sultai/style.css)
+![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/sultai/sultai.png)
 
 ## Install
 
