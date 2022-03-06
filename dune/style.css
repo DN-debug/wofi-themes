@@ -1,0 +1,50 @@
+* {
+    font-family:  'Montserrat', 'Cantarell', 'Caladea', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color:black;
+
+}
+
+
+#window {
+    margin: 0px;
+    border: none;
+    border-color: #312b47;
+    border-radius: 10px;
+    background-color: #c2a060;
+    color:  rgb(117, 113, 114);
+}
+
+#input {
+    margin: 25px;
+    background-color: #c2a060;
+    color: black;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+#scroll {
+    margin-bottom: 25px;
+}
+
+#entry {
+    margin: 0px 25px;
+}
+
+#entry:selected {
+    background-color: #faf5eb;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    color:black;
+
+}
+
+#entry > box {
+    margin-left: 15px;
+}
+
+#entry image {
+    padding-right: 10px;
+}
