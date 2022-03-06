@@ -22,7 +22,7 @@ Copy the relevant `style.css` to you Wofi directory `~/.config/wofi/`and run Wof
 
 ## Contribution
 
-Right now I the only one managing this repo, however open to contributions, if any. Feel free to PR.
+Open to contributions, if any. Feel free to PR.
 
 ## License
 
