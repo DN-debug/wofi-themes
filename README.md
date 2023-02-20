@@ -16,6 +16,11 @@
 
 ![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/sultai/sultai.png)
 
+> Smooth
+
+![Screenshot](https://github.com/DN-debug/wofi-themes/blob/master/smooth/smooth.png)
+
+
 ## Install
 
 Copy the relevant `style.css` to you Wofi directory `~/.config/wofi/`and run Wofi to test the effects. 
