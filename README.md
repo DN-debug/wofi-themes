@@ -23,7 +23,7 @@
 
 ## Install
 
-Copy the relevant `style.css` to you Wofi directory `~/.config/wofi/`and run Wofi to test the effects. 
+Copy the relevant `style.css` to your Wofi directory `~/.config/wofi/`and run Wofi to test the effects. 
 
 ## Contribution
 
